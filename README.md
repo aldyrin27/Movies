@@ -5,3 +5,12 @@ A simple web based about movies and you can booking seat and update status payme
 
 ## Google Login
 ![Google Login](./assets/Google-Login.png)
+
+## Landing Page
+![Landing Page](./assets/Landing.png)
+
+## Booking Page
+![Booking Page](./assets/Booking.png)
+
+## Midtrans
+![Midtrans](./assets/Midtrans.png)
